@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>이게 바로 Vue야</h1>
+    <p>그렇군요~</p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
